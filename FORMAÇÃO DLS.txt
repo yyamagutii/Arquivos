@@ -1,0 +1,23 @@
+FORMAÇÃO DLS
+
+https://tech.bb.com.br/documentacao/p/web/dls-angular/e-novo-na-equipe--comece-por-aqui/treinamentos
+
+https://tech.bb.com.br/p/web/dls
+
+1) https://unibb.alura.com.br/course/html-css-ambiente-arquivos-tags
+2) https://unibb.alura.com.br/course/acessibilidade-html-codigos-semanticos-inclusao
+3) https://unibb.alura.com.br/course/html-css-classes-posicionamento-flexbox
+4) https://unibb.alura.com.br/course/bootstrap5-landing-page-responsiva
+5) https://unibb.alura.com.br/course/acessibilidade-web-front-end-parte-2
+6) https://unibb.alura.com.br/course/logica-programacao-javascript-html
+7) https://unibb.alura.com.br/course/javascript-utilizando-tipos-variaveis-funcoes
+8) https://unibb.alura.com.br/course/javascript-manipulando-elementos-dom
+9) https://unibb.alura.com.br/course/typescript-evoluindo-javascript
+10) https://unibb.alura.com.br/course/typescript-avancando-linguagem
+11) https://unibb.alura.com.br/course/typescript-tecnicas-boas-praticas
+12) https://unibb.alura.com.br/course/angular-explorando-framework
+13) https://unibb.alura.com.br/course/angular-evoluindo-aplicacao
+14) https://unibb.alura.com.br/course/angular-formularios-orientados-templates
+15) https://unibb.alura.com.br/course/rxjs-angular-programando-forma-reativa
+16) https://unibb.alura.com.br/course/angular-testes-automatizados-jasmin-karma
+17) https://unibb.alura.com.br/course/angular-avancando-testes-automatizados
